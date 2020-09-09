@@ -16,7 +16,7 @@
 
 ### Back End Projects
 
-- [Inventory Management System] (https://rachchan.github.io/imsprojectfinal/)
+- [Inventory Management System](https://rachchan.github.io/imsprojectfinal/)
 
 ---
 
